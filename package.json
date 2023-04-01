@@ -2,7 +2,11 @@
     "name": "tensorflowjs-app",
     "description": "Image recognition application using TensorFlow.js",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-tensorflow": "0.4.2",
+        "node-red-dashboard": "3.4.0",
+        "node-red-node-ui-webcam": "0.4.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
