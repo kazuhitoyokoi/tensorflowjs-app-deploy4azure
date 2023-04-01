@@ -1,0 +1,12 @@
+{
+    "name": "tensorflowjs-app",
+    "description": "Image recognition application using TensorFlow.js",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
