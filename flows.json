@@ -8,12 +8,6 @@
         "env": []
     },
     {
-        "id": "034b1c85d04c0321",
-        "type": "global-config",
-        "name": "global-config",
-        "env": []
-    },
-    {
         "id": "d49659851f264454",
         "type": "ui_tab",
         "name": "Image Recognition Application",
