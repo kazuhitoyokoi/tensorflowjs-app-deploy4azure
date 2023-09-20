@@ -3,7 +3,7 @@
     "description": "Image recognition application using TensorFlow.js",
     "version": "0.0.1",
     "dependencies": {
-        "node-red": "3.0.2",
+        "node-red": "3.1.0",
         "node-red-contrib-tensorflow": "0.4.2",
         "node-red-dashboard": "3.4.0",
         "node-red-node-ui-webcam": "0.4.0"
