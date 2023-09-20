@@ -9,7 +9,7 @@
         "node-red-node-ui-webcam": "0.4.0"
     },
     "scripts": {
-        "start": "node-red -D httpAdminRoot=false -D ui.path=/"
+        "start": "node-red -D httpAdminRoot=false -D ui.path=/ -p 80"
     },
     "node-red": {
         "settings": {
